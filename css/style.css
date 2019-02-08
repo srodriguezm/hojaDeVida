@@ -25,6 +25,7 @@ Author E-mail: naimlasker@gmail.com
 /* Wide Mobile Layout: 480px */
 /*---------------------------------------------------- */
 /*----------------------------------------------------*/
+
 body {
   line-height: 24px;
   font-size: 14px;
@@ -2848,7 +2849,7 @@ h6 {
 /* Footer Area css
 ============================================================================================ */
 .footer_area {
-  background: #ffd200; }
+  background: #1846c0; }
 
 .social_widget .f_title h4 {
   font-size: 21px;
@@ -2864,7 +2865,7 @@ h6 {
   margin-right: 40px;
   display: inline-block; }
   .social_widget .list li a {
-    color: #c48e0b;
+    color: #fff;
     font-size: 36px;
     -webkit-transition: all 0.4s ease 0s;
     -moz-transition: all 0.4s ease 0s;
